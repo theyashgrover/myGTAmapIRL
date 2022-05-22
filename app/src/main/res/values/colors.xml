@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_700">#93B592</color>
+    <color name="purple_200">#FED985</color>
+    <color name="colorTertiary">#F09E71</color>
+    <color name="teal_200">#47761E</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <!-- 47761E , FED985 , F09E71 , 61B5CB , 93B592 , D5A0C4 -->
+</resources>
